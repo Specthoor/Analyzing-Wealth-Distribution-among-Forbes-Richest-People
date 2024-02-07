@@ -19,7 +19,7 @@
 🚀 Technology Sector Impact: Revealed the significant influence of the technology sector in producing billionaires, with a notable 7.45% associated with tech ventures.
 
 
-Medium link to report: https://medium.com/@giftidama95/exploring-wealth-distribution-among-forbes-richest-people-22430628713d
+Medium link to report: https://medium.com/@giftidama95/analyzing-wealth-distribution-among-forbes-richest-people-8ed239f5b75f
 
 
 Dataset link: https://www.kaggle.com/datasets/joyshil0599/exploring-wealth-forbes-richest-people-dataset
